@@ -19,7 +19,7 @@ canvas.style.left = "50%";
 const numberParticlesStart = 2000;
 const particleSpeed = 0.1;
 const velocity = 1;
-const circleWidth = 80;
+const circleWidth = 280;
 
 /* ---- INIT ---- */
 let particles = [];
